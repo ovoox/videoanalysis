@@ -1,12 +1,8 @@
 import common from '../../lib/common/common.js';
 import fetch from "node-fetch";
-//作者：知鱼-3260478121-25204733
-//博客：http://ocoa.cn（靓仔靓女望关顾）
-//QQ群：861646887（进来瞧瞧？）
+//QQ群：861646887
 //GitHub：https://github.com/ovoox
-//（里面有实用的js）
-//————视频解析+链接————
-//🤩🤩🤩视频支持：抖音|快手|小红书|皮皮虾|西瓜最右|火山|微博|微视|绿洲|bilbil陌陌|全民视频|全民k歌|逗拍|美拍六间房视频|梨视频|虎牙|新片场|AcFun🥳🥳🥳
+//更多JS插件请访问GitHub
 export class VideoParser extends plugin {
     constructor() {
         super({
